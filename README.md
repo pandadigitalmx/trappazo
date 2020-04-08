@@ -7,10 +7,10 @@ URL de la aplicación: [Trappazo](https://play.google.com/store/apps/details?id=
 
 ![Trappazo](https://apps.ikonlab.mx/trappazo/trappazo.png)
 
-![Home](https://apps.ikonlab.mx/trappazo/home.png)
-![Servicios](https://apps.ikonlab.mx/trappazo/servicios.png)
-![Cuenta](https://apps.ikonlab.mx/trappazo/cuenta.png)
-![FAQ](https://apps.ikonlab.mx/trappazo/faq.png)
+![Home](https://apps.ikonlab.mx/trappazo/home.jpg)
+![Servicios](https://apps.ikonlab.mx/trappazo/servicios.jpg)
+![Cuenta](https://apps.ikonlab.mx/trappazo/cuenta.jpg)
+![FAQ](https://apps.ikonlab.mx/trappazo/faq.jpg)
 
 Sitio web: 
 
